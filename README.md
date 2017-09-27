@@ -143,7 +143,7 @@ body {
     min-width: 1280px;
 }
 
-#dreamwriterPage {
+# dreamwriterPage {
     background-color: rgb(200, 128, 64);
     color: #CCFFFF;
     width: 100%;
